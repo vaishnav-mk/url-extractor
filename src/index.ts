@@ -34,8 +34,6 @@ const main = async (text: string): Promise<string[] | null> => {
     }
   });
 
-  console.log({ matches });
-
   return matches;
 };
 
