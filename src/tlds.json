@@ -1,4 +1,5 @@
-const tlds = [
+{
+  "tlds": [
     "aaa",
     "aarp",
     "abarth",
@@ -1484,6 +1485,5 @@ const tlds = [
     "zone",
     "zuerich",
     "zw"
-]
-
-export default tlds
+  ]
+}
