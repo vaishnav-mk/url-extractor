@@ -7,5 +7,5 @@ main("Did you know that this text contains multiple links like google.com, youtu
 ```
 
 ```
-[ 'https://google.co', 'youtube.co' ]
+[ 'https://google.co', 'https://youtube.co' ]
 ```
